@@ -1,4 +1,8 @@
-/.svn
-/packages
-/*.suo
-/node_modules
+node_modules
+/.git
+.tscache
+.baseDir.*
+package-lock.json
+dist
+out
+out-es5
